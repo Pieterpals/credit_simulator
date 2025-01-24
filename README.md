@@ -28,11 +28,6 @@ go build -o credit_simulator
 ./credit_simulator
 ```
 
-### File Input Mode
-```bash
-./credit_simulator file_inputs.txt
-```
-
 ## Input Requirements
 - Vehicle Type: Motor/Mobil (case-insensitive)
 - Vehicle Condition: Baru/Bekas
